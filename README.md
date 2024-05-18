@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **sadiajessia@gmail.com**
 
-- 📄 Know about my experiences [https://sadia-54.github.io/Project-CV/](https://sadia-54.github.io/Project-CV/)
+- 📄 Here's my resume [https://sadia-54.github.io/Project-CV/](https://sadia-54.github.io/Project-CV/)
 
-- ⚡ Fun fact **I Think I'm Funny :)**
+- 📄 Know about my experiences [https://sadia-54.github.io/Portfolio/](https://sadia-54.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
