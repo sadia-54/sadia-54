@@ -1,7 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)](https://sadia-54.io)
 <h1 align="center">Hi! 👋, I'm Sadia Farzana Jessia</h1>
 <h3 align="center">A passionate Software Engineering student at Shahjalal University of Science and Technology, Sylhet. Currently, I'm navigating my undergraduate journey, fueled by a deep curiosity for technology and innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvnEbDqN1yA0dphp3pTpGl_ZJQQj0hiYAvmGwKLp1w1Q&s">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e293091a3ac0085444cd41eb387d7155a913de25590d5b39706ec209f72e5956/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia-54&label=Profile%20views&color=0e75b6&style=flat" alt="sadia-54" /> </p>
 
