@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://sadia-54.github.io/Portfolio/](https://sadia-54.github.io/Portfolio/)
   
-- 🌟 Check out my projects, share your thoughts, and feel free to reach out for collaboration or a chat about the latest in tech. Together, we can turn curiosity into code! Learning is funny! Right?
+- 🌟 Check out my projects, share your thoughts, and feel free to reach out for collaboration or a chat about the latest in tech. Together, we can turn curiosity into code! Learning is a fun!!! Right?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
