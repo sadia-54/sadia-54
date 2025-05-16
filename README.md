@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia-54&label=Profile%20views&color=0e75b6&style=flat" alt="sadia-54" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, React Native**
+- 🌱 I’m currently learning **Machine Learning, Computer Vision**
 
-- 💬 Ask me about **C++, OOP, MERN**
+- 💬 Ask me about **C++, OOP, DSA, MERN**
 
 - 📫 How to reach me **sadiajessia@gmail.com**
 
