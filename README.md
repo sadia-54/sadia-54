@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sadiajessia@gmail.com**
 
-- 📄 Know about my experiences [https://sadia-54.github.io/tfolio/](https://sadia-portfolio-five.vercel.app/)
+- 📄 Know about my experiences [My Portfolio](https://sadia-portfolio-five.vercel.app/)
   
 - 🌟 Check out my projects, share your thoughts, and feel free to reach out for collaboration or a chat about the latest in tech. Together, we can turn curiosity into code! Learning is fun & exciting!!! Right?
 
