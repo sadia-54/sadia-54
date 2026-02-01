@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia-54&label=Profile%20views&color=0e75b6&style=flat" alt="sadia-54" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Computer Vision**
+- 🌱 I’m currently learning **Backend Engineering**
 
-- 💬 Ask me about **C++, OOP, DSA, MERN**
+- 💬 Ask me about **C++, OOP, DSA, MERN, Fullstack**
 
 - 📫 How to reach me **sadiajessia@gmail.com**
 
-- 📄 Know about my experiences [https://sadia-54.github.io/Portfolio/](https://sadia-54.github.io/tfolio/)
+- 📄 Know about my experiences [https://sadia-54.github.io/tfolio/](https://sadia-portfolio-five.vercel.app/)
   
 - 🌟 Check out my projects, share your thoughts, and feel free to reach out for collaboration or a chat about the latest in tech. Together, we can turn curiosity into code! Learning is fun & exciting!!! Right?
 
